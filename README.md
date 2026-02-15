@@ -1,4 +1,3 @@
-# FortiSOAR-Upgrade-with-HA
 # FortiSOAR HA Upgrade Runbook  
 **Upgrade Path:** 7.4.6 → 7.5.0 (OS Migration) → 7.6.5  
 **Deployment Type:** 2-Node HA (Active / Passive)  
